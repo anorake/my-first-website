@@ -1,0 +1,23 @@
+body {
+    font-family: Arial;
+    color: rgb(185, 172, 147);
+    background-color: rgb(17, 51, 51);
+}
+
+h1 {
+    color: #ffc;
+    background-color: #030324;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+textarea {
+    background-color: darkslategray;
+    color: floralwhite;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: floralwhite;
+    
+}
